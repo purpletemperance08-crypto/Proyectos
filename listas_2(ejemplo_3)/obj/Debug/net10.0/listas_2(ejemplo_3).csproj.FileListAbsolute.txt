@@ -1,0 +1,14 @@
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\bin\Debug\net10.0\listas_2(ejemplo_3).exe
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\bin\Debug\net10.0\listas_2(ejemplo_3).deps.json
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\bin\Debug\net10.0\listas_2(ejemplo_3).runtimeconfig.json
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\bin\Debug\net10.0\listas_2(ejemplo_3).dll
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\bin\Debug\net10.0\listas_2(ejemplo_3).pdb
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).AssemblyInfoInputs.cache
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).AssemblyInfo.cs
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).csproj.CoreCompileInputs.cache
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).dll
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\refint\listas_2(ejemplo_3).dll
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).pdb
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\listas_2(ejemplo_3).genruntimeconfig.cache
+C:\Users\purpl\OneDrive\c#_Isac\listas_2(ejemplo_3)\obj\Debug\net10.0\ref\listas_2(ejemplo_3).dll
