@@ -1,0 +1,14 @@
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\bin\Debug\net10.0\Practica_1.exe
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\bin\Debug\net10.0\Practica_1.deps.json
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\bin\Debug\net10.0\Practica_1.runtimeconfig.json
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\bin\Debug\net10.0\Practica_1.dll
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\bin\Debug\net10.0\Practica_1.pdb
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.AssemblyInfoInputs.cache
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.AssemblyInfo.cs
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.dll
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\refint\Practica_1.dll
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.pdb
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\Practica_1.genruntimeconfig.cache
+C:\Users\purpl\OneDrive\c#_Isac\Practica_1\obj\Debug\net10.0\ref\Practica_1.dll
