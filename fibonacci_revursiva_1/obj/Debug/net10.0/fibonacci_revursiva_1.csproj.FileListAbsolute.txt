@@ -1,0 +1,14 @@
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\bin\Debug\net10.0\fibonacci_revursiva_1.exe
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\bin\Debug\net10.0\fibonacci_revursiva_1.deps.json
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\bin\Debug\net10.0\fibonacci_revursiva_1.runtimeconfig.json
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\bin\Debug\net10.0\fibonacci_revursiva_1.dll
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\bin\Debug\net10.0\fibonacci_revursiva_1.pdb
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.AssemblyInfoInputs.cache
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.AssemblyInfo.cs
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.csproj.CoreCompileInputs.cache
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.dll
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\refint\fibonacci_revursiva_1.dll
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.pdb
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\fibonacci_revursiva_1.genruntimeconfig.cache
+C:\Users\purpl\OneDrive\c#_Isac\fibonacci_revursiva_1\obj\Debug\net10.0\ref\fibonacci_revursiva_1.dll
