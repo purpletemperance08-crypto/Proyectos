@@ -1,0 +1,63 @@
+table {
+    
+    width: 100%; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 2px solid #2c3e50;
+    
+   
+    border-collapse: collapse; 
+    table-layout: fixed; 
+}
+
+th, td {
+    padding: 8px 4px; 
+    border: 1px solid #ffffff;
+    word-wrap: break-word; 
+    font-size: 0.85rem; 
+}
+
+
+.table-container {
+    width: 100%;
+    overflow: hidden; 
+}
+
+
+
+
+.hora {
+    background-color: #2c3e50;
+    color: white; font-weight: bold; 
+}
+.etica {
+     background-color: #9cd59e; 
+     color: #1b4332; 
+} 
+.analisis {
+background-color: #5aabbb; 
+color: #000; 
+}    
+.estruc {
+ background-color: #278f83; 
+ color: white; 
+}   
+.calc { 
+background-color: #0077b6; 
+color: white; 
+}     
+.movil { 
+background-color: #90b374; 
+color: #1b4332; 
+}   
+.idiomas { 
+background-color: #729ca4; 
+color: #023e8a; 
+}  
+.web { 
+background-color: #3393b3; 
+color: white; 
+}     
+td:empty { 
+background-color: #f8f9fa;
+}

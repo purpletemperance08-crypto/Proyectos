@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Mozilla Text", sans-serif;
+    background: rgb(41, 40, 40);
+    overflow-x: hidden;
+}
+
+.cabeza {
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+    background: rgb(30, 30, 30);
+    width: 100%;
+    height: 10vh;
+    color: aliceblue;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    min-height: 90vh; 
+}
+
+.col-oscura-izq {
+    width: 5%;
+    background: rgb(41, 40, 40);
+}
+
+.col-blanca {
+    width: 65%;
+    background: aliceblue;
+    padding: 20px;
+}
+
+
+.col-lateral {
+    width: 27%;
+    background: #4b4a4c;
+    padding: 30px 20px;
+    color: white;
+}
+
+.col-oscura-der {
+    width: 3%;
+    background: rgb(41, 40, 40);
+}
+
+.perfil-flex {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.icono-cuadro {
+    background-color: rgb(152, 167, 90);
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0; /* Para que no se deforme el cuadro */
+}
+
+.icono-cuadro img {
+    width: 25px;
+    height: 25px;
+}
+
+.texto-perfil p {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #ece5ed;
+}
+
+#linea {
+    border: none;
+    height: 1px;
+    background: rgb(249, 247, 247);
+    margin: 20px 0;
+}
+
+
+.contenedor-botones {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.boton {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    text-decoration: none;
+    width: 100%;
+    height: 55px;
+    border-radius: 15px;
+    font-weight: bold;
+    color: #333;
+    transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.boton:hover {
+    transform: scale(1.03);
+}
+
+.yo {
+   background-color: rgb(152, 167, 90);
+   
+}
+
+.horario {
+   background-color: rgb(129, 185, 184);
+}
+.cv {
+   background-color: darkslategray;;
+   color: white; 
+}
+.home{
+  background-color: rgb(64, 155, 180);
+}
+
+

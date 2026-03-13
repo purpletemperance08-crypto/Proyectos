@@ -1,0 +1,86 @@
+.col-8{
+width: 60%;
+}
+.col-4{
+width: 40%;
+padding-left: 10px;
+}
+.col-4 img {
+max-width: 100%; 
+height: auto;    
+display: block;
+}
+#linea-negra {
+    border: none;
+    height: 1px;
+    background: rgb(0, 0, 0);
+    margin: 20px 0;
+}
+.texto-yo{
+    display: flex;
+    
+}
+li{
+    display: flex;
+    
+}
+
+.col-blanca {
+    background: #ffffff;
+    padding: 40px;
+    font-family: 'Mozilla Text', sans-serif;
+}
+
+.info-main {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.texto-principal {
+    flex: 2;
+}
+
+.nombre-titulo {
+    font-size: 2.5rem;
+    color: #222;
+    margin-bottom: 5px;
+    font-weight: 800;
+}
+
+
+.lista-gustos {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* este divide a dos lineas */
+    gap: 10px;
+}
+
+.lista-gustos li {
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    color: #444;
+}
+/* este es el punto de las listas*/
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: #333;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+
+.img-perfil {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 12px;
+    padding-right: 40px;
+}
+

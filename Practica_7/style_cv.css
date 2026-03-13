@@ -1,0 +1,125 @@
+
+.col-azul {
+    background-color: darkslategray;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.col-info {
+    width: 65%;
+    background-color: azure;
+    padding: 20px;
+}
+
+
+.col-azul #perfil {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.col-nombre {
+    text-align: center;
+    color: aliceblue;
+    margin: 15px 0;
+}
+
+
+.item-contacto {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.icon_cv {
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+.texto-azul {
+    margin: 0;
+    color: aliceblue;
+    font-size: 0.9rem;
+}
+
+.linea-verde {
+    border: none;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 20px 0;
+}
+
+.col-cono {
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    
+}
+
+li {
+    margin-bottom: 5px;
+    font-size: 0.85rem;
+    padding-top: 5px;
+}
+
+.row-experiencia {
+    display: flex;
+    align-items: flex-start; 
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.exp {
+    flex: 0 0 70px; 
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.header {
+    flex: 1; 
+    padding-left: 15px;
+}
+
+.header h3 {
+    margin: 0;
+    color: #2c3e50;
+}
+
+.icon_cv_exp {
+    background-color: rgb(129, 185, 184);
+    width: 45px;
+    height: 45px;
+    padding: 8px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+.header hr {
+    margin: 10px 0;
+    border: 0;
+    border-top: 1px solid #ccc;
+}
+hr{
+    border: none;              
+    height: 2px;                
+    background-color: #2a9d8f;  
+    width: 93%;                 
+    margin: 20px auto;       
+    
+}
